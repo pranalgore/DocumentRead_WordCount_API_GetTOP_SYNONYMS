@@ -1,0 +1,38 @@
+{
+  "name": "avaamo_excercise_pranal",
+  "version": "1.0.0",
+  "description": "Document Read and output top 10 words with Count-Synonyms-Pos",
+  "main": "Runme.js",
+  "scripts": {
+    "test": "node Runme.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranalgore/DocumentRead_WordCount_API_GetTOP_SYNONYMS.git"
+  },
+  "keywords": [
+    "Document",
+    "Read",
+    "and",
+    "output",
+    "top",
+    "10",
+    "words",
+    "with",
+    "Count-Synonyms-Pos"
+  ],
+  "author": "Pranal Gore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pranalgore/DocumentRead_WordCount_API_GetTOP_SYNONYMS/issues"
+  },
+  "homepage": "https://github.com/pranalgore/DocumentRead_WordCount_API_GetTOP_SYNONYMS#readme",
+  "dependencies": {
+    "async": "^3.1.0",
+    "cross-fetch": "^3.0.4",
+    "lodash": "^4.17.15",
+    "promise": "^8.0.3",
+    "remove-stopwords": "^1.0.3",
+    "request": "^2.88.0"
+  }
+}
