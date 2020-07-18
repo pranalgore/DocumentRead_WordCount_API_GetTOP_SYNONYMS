@@ -30,7 +30,7 @@
   "dependencies": {
     "async": "^3.1.0",
     "cross-fetch": "^3.0.4",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "promise": "^8.0.3",
     "remove-stopwords": "^1.0.3",
     "request": "^2.88.0"
