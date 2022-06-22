@@ -28,7 +28,7 @@
   },
   "homepage": "https://github.com/pranalgore/DocumentRead_WordCount_API_GetTOP_SYNONYMS#readme",
   "dependencies": {
-    "async": "^3.1.0",
+    "async": "^3.2.2",
     "cross-fetch": "^3.0.4",
     "lodash": "^4.17.15",
     "promise": "^8.0.3",
